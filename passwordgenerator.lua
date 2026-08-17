@@ -20,7 +20,7 @@ for i = 123, 126 do -- adds special characters to table (U+007B-U+007E)
 end
 
 
--- numbers generation function
+-- numbers table
 
 nums = {}
 
@@ -29,7 +29,7 @@ for i = 48, 57 do -- adds numbers to table (U+0030-U+0039)
 end
 
 
--- letters generation function
+-- letters table
 
 letters = {}
 
